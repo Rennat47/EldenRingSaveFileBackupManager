@@ -1,6 +1,6 @@
 # EldenRingSaveFileManager
 Simple Java program that makes managing your Elden Ring backup saves a tad easier 
-
+![SaveFileManger](https://user-images.githubusercontent.com/66340549/168502752-23929d22-af47-4b8d-ad65-b511ad139d91.png)
 LOADING SAVES:
 Do not try and load a save while playing because it will just get instantly overridden the next time the game auto saves.
 To properly load a new save you must close the game and load your selected save for the game to recognize the change.
@@ -26,4 +26,4 @@ The save file manager works by keeping a backup folder full of subfolders of all
 The subfolder names is the name of the save.
 If you already have a directory with a bunch of save foldersyou can select that to be your backup save location, 
 or you can copy your subsave folders directly into where you selected your backup folder to be for the save file manager
-![SaveFileManger](https://user-images.githubusercontent.com/66340549/168502752-23929d22-af47-4b8d-ad65-b511ad139d91.png)
+
