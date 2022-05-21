@@ -11,6 +11,7 @@ You can make a backup at any time while playing. Drop an item and wait for the s
 Then just click new and create your backup
 
 WHAT EACH BUTTON DOES:
+
 [NEW]: Creates a new backup save by coping your elden ring appdata folder to your backup save folder
 
 [COPY]: Creates a copy of a selected save with it's name + Copy #
